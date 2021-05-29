@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Ques1 {
 	public static void main(String args[]) {
-		System.out.println("Enter a number=");
+		System.out.println("Enter a no=");
 		Scanner sc=new Scanner(System.in);
 		int n=sc.nextInt();
 		int sum=0;
